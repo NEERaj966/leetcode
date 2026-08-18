@@ -160,12 +160,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NEERaj966/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/NEERaj966/leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/NEERaj966/leetcode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/NEERaj966/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NEERaj966/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/NEERaj966/leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/NEERaj966/leetcode/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
@@ -187,11 +189,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/NEERaj966/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NEERaj966/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/NEERaj966/leetcode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/NEERaj966/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NEERaj966/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/NEERaj966/leetcode/tree/master/0112-path-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
