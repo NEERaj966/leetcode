@@ -16,10 +16,10 @@ public:
 
         while(left != NULL && right != NULL){
             if(left->val <= right->val){
-                temp->next = new ListNode(left->val);
+                temp->next = left;
                 left = left->next;
             }else{
-                temp->next = new ListNode(right->val);
+                temp->next = right;
                 right = right->next;
             }
 
