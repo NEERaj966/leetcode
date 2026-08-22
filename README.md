@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NEERaj966/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/NEERaj966/leetcode/tree/master/0049-group-anagrams) |
+| [0257-binary-tree-paths](https://github.com/NEERaj966/leetcode/tree/master/0257-binary-tree-paths) |
 | [0443-string-compression](https://github.com/NEERaj966/leetcode/tree/master/0443-string-compression) |
 ## Stack
 |  |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/NEERaj966/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/NEERaj966/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/NEERaj966/leetcode/tree/master/0200-number-of-islands) |
+| [0257-binary-tree-paths](https://github.com/NEERaj966/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NEERaj966/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/NEERaj966/leetcode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NEERaj966/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/NEERaj966/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/NEERaj966/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NEERaj966/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/NEERaj966/leetcode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NEERaj966/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/NEERaj966/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/NEERaj966/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NEERaj966/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Bit Manipulation
 |  |
@@ -253,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NEERaj966/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/NEERaj966/leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
