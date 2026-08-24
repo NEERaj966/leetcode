@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/NEERaj966/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NEERaj966/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/NEERaj966/leetcode/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/NEERaj966/leetcode/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/NEERaj966/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NEERaj966/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
@@ -78,11 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/NEERaj966/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/NEERaj966/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NEERaj966/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0877-stone-game](https://github.com/NEERaj966/leetcode/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NEERaj966/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/NEERaj966/leetcode/tree/master/0189-rotate-array) |
+| [0877-stone-game](https://github.com/NEERaj966/leetcode/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NEERaj966/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
@@ -277,4 +280,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/NEERaj966/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/NEERaj966/leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/NEERaj966/leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/NEERaj966/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
