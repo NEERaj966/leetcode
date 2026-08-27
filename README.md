@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/NEERaj966/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/NEERaj966/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/NEERaj966/leetcode/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/NEERaj966/leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NEERaj966/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NEERaj966/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/NEERaj966/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/NEERaj966/leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/NEERaj966/leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/NEERaj966/leetcode/tree/master/0191-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/NEERaj966/leetcode/tree/master/1386-cinema-seat-allocation) |
 ## DP on Trees
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/NEERaj966/leetcode/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/NEERaj966/leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
