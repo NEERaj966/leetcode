@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/NEERaj966/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/NEERaj966/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/NEERaj966/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NEERaj966/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/NEERaj966/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/NEERaj966/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/NEERaj966/leetcode/tree/master/0525-contiguous-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/NEERaj966/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/NEERaj966/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/NEERaj966/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NEERaj966/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/NEERaj966/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/NEERaj966/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/NEERaj966/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/NEERaj966/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NEERaj966/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/NEERaj966/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Queue
 |  |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/NEERaj966/leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NEERaj966/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/NEERaj966/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NEERaj966/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/NEERaj966/leetcode/tree/master/0200-number-of-islands) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NEERaj966/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
