@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/NEERaj966/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/NEERaj966/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/NEERaj966/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/NEERaj966/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/NEERaj966/leetcode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/NEERaj966/leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NEERaj966/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NEERaj966/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/NEERaj966/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/NEERaj966/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NEERaj966/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NEERaj966/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/NEERaj966/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NEERaj966/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/NEERaj966/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NEERaj966/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/NEERaj966/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/NEERaj966/leetcode/tree/master/0621-task-scheduler) |
