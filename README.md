@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/NEERaj966/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/NEERaj966/leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/NEERaj966/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/NEERaj966/leetcode/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NEERaj966/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/NEERaj966/leetcode/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/NEERaj966/leetcode/tree/master/0877-stone-game) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NEERaj966/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/NEERaj966/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NEERaj966/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/NEERaj966/leetcode/tree/master/0695-max-area-of-island) |
 | [1306-jump-game-iii](https://github.com/NEERaj966/leetcode/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
@@ -257,17 +259,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/NEERaj966/leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/NEERaj966/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/NEERaj966/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/NEERaj966/leetcode/tree/master/0695-max-area-of-island) |
 | [1306-jump-game-iii](https://github.com/NEERaj966/leetcode/tree/master/1306-jump-game-iii) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/NEERaj966/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/NEERaj966/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/NEERaj966/leetcode/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/NEERaj966/leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NEERaj966/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0695-max-area-of-island](https://github.com/NEERaj966/leetcode/tree/master/0695-max-area-of-island) |
 ## Prefix Sum
 |  |
 | ------- |
