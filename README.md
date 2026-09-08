@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/NEERaj966/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/NEERaj966/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/NEERaj966/leetcode/tree/master/0695-max-area-of-island) |
+| [0802-find-eventual-safe-states](https://github.com/NEERaj966/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1306-jump-game-iii](https://github.com/NEERaj966/leetcode/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/NEERaj966/leetcode/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/NEERaj966/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/NEERaj966/leetcode/tree/master/0695-max-area-of-island) |
+| [0802-find-eventual-safe-states](https://github.com/NEERaj966/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1306-jump-game-iii](https://github.com/NEERaj966/leetcode/tree/master/1306-jump-game-iii) |
 ## Union-Find
 |  |
@@ -408,13 +410,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/NEERaj966/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/NEERaj966/leetcode/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/NEERaj966/leetcode/tree/master/0684-redundant-connection) |
+| [0802-find-eventual-safe-states](https://github.com/NEERaj966/leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/NEERaj966/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/NEERaj966/leetcode/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/NEERaj966/leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/NEERaj966/leetcode/tree/master/0207-course-schedule) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/NEERaj966/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/NEERaj966/leetcode/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
