@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/NEERaj966/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/NEERaj966/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/NEERaj966/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/NEERaj966/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/NEERaj966/leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NEERaj966/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Math
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/NEERaj966/leetcode/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/NEERaj966/leetcode/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/NEERaj966/leetcode/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/NEERaj966/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/NEERaj966/leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Queue
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/NEERaj966/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/NEERaj966/leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/NEERaj966/leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/NEERaj966/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/NEERaj966/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1306-jump-game-iii](https://github.com/NEERaj966/leetcode/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/NEERaj966/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/NEERaj966/leetcode/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/NEERaj966/leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/NEERaj966/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/NEERaj966/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1306-jump-game-iii](https://github.com/NEERaj966/leetcode/tree/master/1306-jump-game-iii) |
 ## Union-Find
@@ -418,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/NEERaj966/leetcode/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/NEERaj966/leetcode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/NEERaj966/leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/NEERaj966/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/NEERaj966/leetcode/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -441,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/NEERaj966/leetcode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/NEERaj966/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
