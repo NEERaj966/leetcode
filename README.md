@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/NEERaj966/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/NEERaj966/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/NEERaj966/leetcode/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/NEERaj966/leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/NEERaj966/leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NEERaj966/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/NEERaj966/leetcode/tree/master/0090-subsets-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/NEERaj966/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/NEERaj966/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/NEERaj966/leetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/NEERaj966/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/NEERaj966/leetcode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NEERaj966/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NEERaj966/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/NEERaj966/leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/NEERaj966/leetcode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/NEERaj966/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/NEERaj966/leetcode/tree/master/0695-max-area-of-island) |
