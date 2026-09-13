@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/NEERaj966/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/NEERaj966/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/NEERaj966/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/NEERaj966/leetcode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NEERaj966/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NEERaj966/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/NEERaj966/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/NEERaj966/leetcode/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/NEERaj966/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NEERaj966/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/NEERaj966/leetcode/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/NEERaj966/leetcode/tree/master/0877-stone-game) |
@@ -461,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/NEERaj966/leetcode/tree/master/0743-network-delay-time) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/NEERaj966/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
