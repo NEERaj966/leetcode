@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/NEERaj966/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0092-reverse-linked-list-ii](https://github.com/NEERaj966/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0148-sort-list](https://github.com/NEERaj966/leetcode/tree/master/0148-sort-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/NEERaj966/leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Merge Sort
