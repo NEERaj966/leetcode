@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/NEERaj966/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NEERaj966/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/NEERaj966/leetcode/tree/master/0621-task-scheduler) |
+| [0652-find-duplicate-subtrees](https://github.com/NEERaj966/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0767-reorganize-string](https://github.com/NEERaj966/leetcode/tree/master/0767-reorganize-string) |
 | [1386-cinema-seat-allocation](https://github.com/NEERaj966/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3719-longest-balanced-subarray-i](https://github.com/NEERaj966/leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NEERaj966/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/NEERaj966/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NEERaj966/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/NEERaj966/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0684-redundant-connection](https://github.com/NEERaj966/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/NEERaj966/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/NEERaj966/leetcode/tree/master/0733-flood-fill) |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NEERaj966/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/NEERaj966/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NEERaj966/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/NEERaj966/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NEERaj966/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/NEERaj966/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/NEERaj966/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NEERaj966/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/NEERaj966/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NEERaj966/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bit Manipulation
 |  |
