@@ -29,7 +29,7 @@ public:
         int st = 0;
         int end = n - 1;
 
-        int target = n - k;
+        int target =  n-k;
 
         while (st <= end) {
 
