@@ -1,9 +1,9 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-        int maxi = nums[0];
-        int mini = nums[0];
-        int ans = nums[0];
+        int maxi = nums[0]; // to track max product
+        int mini = nums[0]; // to track negative max 
+        int ans = nums[0];  // to track max 
 
         for (int i = 1; i < nums.size(); i++) {
 
