@@ -1,28 +1,24 @@
 class Solution {
 public:
+    int count = 0;
 
-    int helper(TreeNode* root, int maxel) {
-        if (!root) return 0;
+    void helper(TreeNode* root, int maxel) {
+        if (!root) return;
 
-        int count = 0;
-
-        // Is this node good?
+        // If current node is good
         if (root->val >= maxel) {
-            count = 1;
+            count++;
         }
 
-        // Update maximum for children
+        // Update maximum value
         maxel = max(maxel, root->val);
 
-        count += helper(root->left, maxel);
-        count += helper(root->right, maxel);
-
-        return count;
+        helper(root->left, maxel);
+        helper(root->right, maxel);
     }
 
     int goodNodes(TreeNode* root) {
-        if (!root) return 0;
-
-        return helper(root, root->val);
+        helper(root, root->val);
+        return count;
     }
 };
