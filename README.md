@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/NEERaj966/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/NEERaj966/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1306-jump-game-iii](https://github.com/NEERaj966/leetcode/tree/master/1306-jump-game-iii) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/NEERaj966/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NEERaj966/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/NEERaj966/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/NEERaj966/leetcode/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/NEERaj966/leetcode/tree/master/1306-jump-game-iii) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/NEERaj966/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/NEERaj966/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NEERaj966/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/NEERaj966/leetcode/tree/master/0652-find-duplicate-subtrees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/NEERaj966/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NEERaj966/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/NEERaj966/leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/NEERaj966/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/NEERaj966/leetcode/tree/master/0652-find-duplicate-subtrees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/NEERaj966/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/NEERaj966/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bit Manipulation
 |  |
