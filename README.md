@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NEERaj966/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1306-jump-game-iii](https://github.com/NEERaj966/leetcode/tree/master/1306-jump-game-iii) |
 | [1386-cinema-seat-allocation](https://github.com/NEERaj966/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/NEERaj966/leetcode/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/NEERaj966/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/NEERaj966/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/NEERaj966/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NEERaj966/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/NEERaj966/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1405-longest-happy-string](https://github.com/NEERaj966/leetcode/tree/master/1405-longest-happy-string) |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/NEERaj966/leetcode/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/NEERaj966/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/NEERaj966/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/NEERaj966/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
