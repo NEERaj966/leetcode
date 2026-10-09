@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/NEERaj966/leetcode/tree/master/0767-reorganize-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/NEERaj966/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/NEERaj966/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1405-longest-happy-string](https://github.com/NEERaj966/leetcode/tree/master/1405-longest-happy-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/NEERaj966/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Monotonic Queue
 |  |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/NEERaj966/leetcode/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NEERaj966/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/NEERaj966/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1405-longest-happy-string](https://github.com/NEERaj966/leetcode/tree/master/1405-longest-happy-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/NEERaj966/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/NEERaj966/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/NEERaj966/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/NEERaj966/leetcode/tree/master/0767-reorganize-string) |
 | [0856-score-of-parentheses](https://github.com/NEERaj966/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/NEERaj966/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1405-longest-happy-string](https://github.com/NEERaj966/leetcode/tree/master/1405-longest-happy-string) |
 ## Stack
 |  |
 | ------- |
