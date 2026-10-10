@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/NEERaj966/leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/NEERaj966/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/NEERaj966/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/NEERaj966/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/NEERaj966/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/NEERaj966/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/NEERaj966/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/NEERaj966/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/NEERaj966/leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/NEERaj966/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/NEERaj966/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/NEERaj966/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/NEERaj966/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0443-string-compression](https://github.com/NEERaj966/leetcode/tree/master/0443-string-compression) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/NEERaj966/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Queue
 |  |
 | ------- |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/NEERaj966/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NEERaj966/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/NEERaj966/leetcode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/NEERaj966/leetcode/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Greedy
 |  |
 | ------- |
