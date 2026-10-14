@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NEERaj966/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NEERaj966/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/NEERaj966/leetcode/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NEERaj966/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NEERaj966/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/NEERaj966/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NEERaj966/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/NEERaj966/leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/NEERaj966/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/NEERaj966/leetcode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NEERaj966/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NEERaj966/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NEERaj966/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/NEERaj966/leetcode/tree/master/0152-maximum-product-subarray) |
