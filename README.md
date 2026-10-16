@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/NEERaj966/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/NEERaj966/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/NEERaj966/leetcode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/NEERaj966/leetcode/tree/master/0058-length-of-last-word) |
 | [0257-binary-tree-paths](https://github.com/NEERaj966/leetcode/tree/master/0257-binary-tree-paths) |
 | [0443-string-compression](https://github.com/NEERaj966/leetcode/tree/master/0443-string-compression) |
 | [0721-accounts-merge](https://github.com/NEERaj966/leetcode/tree/master/0721-accounts-merge) |
