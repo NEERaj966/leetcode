@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NEERaj966/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/NEERaj966/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/NEERaj966/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/NEERaj966/leetcode/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/NEERaj966/leetcode/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/NEERaj966/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/NEERaj966/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/NEERaj966/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/NEERaj966/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/NEERaj966/leetcode/tree/master/0383-ransom-note) |
 | [0621-task-scheduler](https://github.com/NEERaj966/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/NEERaj966/leetcode/tree/master/0767-reorganize-string) |
 ## Quickselect
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/NEERaj966/leetcode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/NEERaj966/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/NEERaj966/leetcode/tree/master/0257-binary-tree-paths) |
+| [0383-ransom-note](https://github.com/NEERaj966/leetcode/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/NEERaj966/leetcode/tree/master/0443-string-compression) |
 | [0721-accounts-merge](https://github.com/NEERaj966/leetcode/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/NEERaj966/leetcode/tree/master/0767-reorganize-string) |
