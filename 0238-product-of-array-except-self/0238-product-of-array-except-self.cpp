@@ -11,10 +11,6 @@ public:
             pro *= nums[i];
         }
 
-        for(int x : prefix){
-            cout << x << " ";
-        }
-
         pro = 1;
         
         for(int i = n-1 ; i >= 0 ; i--){
