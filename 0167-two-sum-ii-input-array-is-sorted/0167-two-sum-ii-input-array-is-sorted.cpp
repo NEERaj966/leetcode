@@ -1,25 +1,24 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& numbers, int target) {
-        int st = 0 ;
-        int end = numbers.size()-1;
-        vector<int> ans;
+        // first approach two pointer O(n)
 
-        while(st <= end){
-            int sum = numbers[st] + numbers[end];
+        int n = numbers.size();
 
-            if(sum == target){
-                ans.push_back(st+1);
-                ans.push_back(end+1);
-                break;
+           int i = 0  , j = n-1;
 
-            }else if(sum > target){
-                end--;
-            }else st++;
+           while(i <= j ){
+            int ans = numbers[i]+numbers[j];
 
+            if(target == ans) return {i+1 , j+1};
 
-        }
+            else if(target > ans) i++;
+            else j--;
+           }
 
-        return ans;
+           return {i , j};
+
+      
+        
     }
 };
