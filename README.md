@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NEERaj966/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NEERaj966/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/NEERaj966/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/NEERaj966/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/NEERaj966/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/NEERaj966/leetcode/tree/master/0133-clone-graph) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/NEERaj966/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/NEERaj966/leetcode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/NEERaj966/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/NEERaj966/leetcode/tree/master/0070-climbing-stairs) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NEERaj966/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/NEERaj966/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/NEERaj966/leetcode/tree/master/0049-group-anagrams) |
 | [0257-binary-tree-paths](https://github.com/NEERaj966/leetcode/tree/master/0257-binary-tree-paths) |
 | [0443-string-compression](https://github.com/NEERaj966/leetcode/tree/master/0443-string-compression) |
