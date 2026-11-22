@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/NEERaj966/leetcode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/NEERaj966/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/NEERaj966/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/NEERaj966/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1306-jump-game-iii](https://github.com/NEERaj966/leetcode/tree/master/1306-jump-game-iii) |
 | [1386-cinema-seat-allocation](https://github.com/NEERaj966/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/NEERaj966/leetcode/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/NEERaj966/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/NEERaj966/leetcode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/NEERaj966/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1162-as-far-from-land-as-possible](https://github.com/NEERaj966/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 ## Math
 |  |
 | ------- |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/NEERaj966/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/NEERaj966/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/NEERaj966/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/NEERaj966/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1306-jump-game-iii](https://github.com/NEERaj966/leetcode/tree/master/1306-jump-game-iii) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/NEERaj966/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Union-Find
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/NEERaj966/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/NEERaj966/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/NEERaj966/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/NEERaj966/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 ## Prefix Sum
 |  |
 | ------- |
