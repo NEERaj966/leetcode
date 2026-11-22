@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/NEERaj966/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/NEERaj966/leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/NEERaj966/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/NEERaj966/leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/NEERaj966/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/NEERaj966/leetcode/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/NEERaj966/leetcode/tree/master/0146-lru-cache) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/NEERaj966/leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/NEERaj966/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/NEERaj966/leetcode/tree/master/0058-length-of-last-word) |
+| [0127-word-ladder](https://github.com/NEERaj966/leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/NEERaj966/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/NEERaj966/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/NEERaj966/leetcode/tree/master/0257-binary-tree-paths) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NEERaj966/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NEERaj966/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/NEERaj966/leetcode/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/NEERaj966/leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/NEERaj966/leetcode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/NEERaj966/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/NEERaj966/leetcode/tree/master/0200-number-of-islands) |
@@ -652,4 +655,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/NEERaj966/leetcode/tree/master/0051-n-queens) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/NEERaj966/leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
